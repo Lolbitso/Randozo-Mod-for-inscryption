@@ -1,0 +1,11 @@
+{
+    "name": "RandoMod",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Lolbitso/Randozo-Mod-for-inscryption",
+    "description": "write your own description.",
+    "dependencies": [
+        "API_dev-API-1.12.1"
+        "BepInEx-BepInExPack_Inscryption-5.4.1701"
+        "MADH95Mods-JSONCardLoader-1.7.1"
+    ]
+}
