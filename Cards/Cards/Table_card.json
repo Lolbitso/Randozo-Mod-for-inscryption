@@ -1,0 +1,14 @@
+{
+  "name": "TableN",
+  "displayedName": "A Table",
+  "description": "Where da Table come from? I- I wanted a Table.",
+  "metaCategories": [ "ChoiceNode" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 4,
+  "cost": 1,
+  "bones": 2,
+  "appearanceBehaviour": [ "TerrainBackground" ],
+  "texture": "Table_art.png"
+}

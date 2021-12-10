@@ -1,0 +1,14 @@
+{
+  "name": "King RatN",
+  "displayedName": "The King Rat",
+  "description": "Heres the Rat k, oh wait no its the King Rat. odd",
+  "metaCategories": [ "TraderOffer", "ChoiceNode" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "cost": 2,
+  "abilities": [ "Sniper", "SplitStrike" ],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "King Rat_art.png"
+}

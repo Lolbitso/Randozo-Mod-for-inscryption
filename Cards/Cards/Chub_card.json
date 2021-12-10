@@ -1,0 +1,15 @@
+{
+  "name": "ChubN",
+  "displayedName": "Chub",
+  "description": "Chub",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "cost": 2,
+  "abilities": [ "IceCube" ],
+  "iceCube_creatureWithin":"Omega ChubN",
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Chub_art.png"
+}

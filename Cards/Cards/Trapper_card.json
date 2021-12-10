@@ -1,0 +1,15 @@
+{
+  "name": "TrapperN",
+  "displayedName": "The Trapper",
+  "description": "Never miss",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "cost": 3,
+  "abilities": [ "Sniper", "IceCube" ],
+  "iceCube_creatureWithin":"TraderN",
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Hunter_art.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "JackN",
+  "displayedName": "Jack",
+  "description": "HEEEERE'S INSCRYPTION",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "cost": 2,
+  "abilities": [ "Strafe" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Jack_art.png"
+}

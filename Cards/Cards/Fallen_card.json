@@ -1,0 +1,13 @@
+{
+  "name": "FallenN",
+  "displayedName": "The Fallen",
+  "description": "He has died before. He WILL accend this time.",
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 2,
+  "cost": 0,
+  "abilities": [ "BuffNeighbours" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Fallen_art.png"
+}

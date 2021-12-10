@@ -1,0 +1,14 @@
+{
+  "name": "StrikerN",
+  "displayedName": "Striker",
+  "description": "Atttacks all cards",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "cost": 2,
+  "abilities": [ "AllStrike" ],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Striking_art.png"
+}
