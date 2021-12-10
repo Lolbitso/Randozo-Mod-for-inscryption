@@ -1,0 +1,12 @@
+{
+  "name": "Omega ChubN",
+  "displayedName": "Omega Chub",
+  "description": "you did it now",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 0,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Omega Chub_art.png"
+}

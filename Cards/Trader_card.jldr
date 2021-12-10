@@ -1,0 +1,13 @@
+{
+  "name": "TraderN",
+  "displayedName": "The Trader",
+  "description": "Wealth",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "abilities": [ "RandomConsumable", "Tutor" ],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Trader_art.png"
+}

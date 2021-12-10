@@ -1,0 +1,15 @@
+{
+  "name": "po3's-card?N",
+  "displayedName": "po3's card?",
+  "description": "po3 must have left this here, you can have it",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "trait": "Terrain",
+  "baseAttack": 0,
+  "baseHealth": 99,
+  "bloodCost": 0,
+  "abilities": [ "BuffEnemy", "Submerge" ],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "po3's-card_art.png"
+}

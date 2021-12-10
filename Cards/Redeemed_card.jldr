@@ -1,0 +1,13 @@
+{
+  "name": "RedeemedN",
+  "displayedName": "The Redeemed",
+  "description": "Accent has came and he remains",
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 6,
+  "bloodCost": 0,
+  "abilities": [ "TripleBlood", "Sacrificial" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Redeemed_art.png"
+}

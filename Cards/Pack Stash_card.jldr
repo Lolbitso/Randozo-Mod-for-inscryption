@@ -1,0 +1,15 @@
+{
+  "name": "Pack StashN",
+  "displayedName": "Pack Stash",
+  "description": "Chub",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 4,
+  "abilities": [ "Brittle" ],
+  "specialAbilities": [ "PackMule" ],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Pack Stash_art.png"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "RedeemerN",
+  "displayedName": "The Redeemer",
+  "description": "Accent is near, The only way down is death.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Intermediate",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 3,
+  "abilities": [ "Evolve", "IceCube" ],
+  "evolution": {
+    "name": "RedeemedN",
+    "turnsToEvolve": 2
+  },
+  "iceCube_creatureWithin":"FallenN",
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Redeemer_art.png"
+}
